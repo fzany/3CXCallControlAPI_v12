@@ -1,0 +1,6 @@
+C:\v12\Sources\Projects\3cxpscomcpp2\src\Help\OMSamples\bin\OMSamples.exe.config
+C:\v12\Sources\Projects\3cxpscomcpp2\src\Help\OMSamples\bin\OMSamples.exe
+C:\v12\Sources\Projects\3cxpscomcpp2\src\Help\OMSamples\bin\OMSamples.pdb
+C:\v12\Sources\Projects\3cxpscomcpp2\src\Help\OMSamples\obj\Debug\OMSamples.csprojResolveAssemblyReference.cache
+C:\v12\Sources\Projects\3cxpscomcpp2\src\Help\OMSamples\obj\Debug\OMSamples.exe
+C:\v12\Sources\Projects\3cxpscomcpp2\src\Help\OMSamples\obj\Debug\OMSamples.pdb
